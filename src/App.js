@@ -5,7 +5,7 @@ import './themes/Unqork.scss';
 
 import { AgGridReact } from 'ag-grid-react';
 import 'ag-grid-enterprise';
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 
 class App extends Component {
   constructor(props) {
